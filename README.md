@@ -172,7 +172,9 @@ O protótipo físico do FINDIT foi testado utilizando o Scanner ESP32, display O
 
 A demonstração apresenta a utilização da interface do FINDIT e o rastreamento por proximidade através da intensidade do sinal BLE (RSSI).
 
-> 🎬 Uma demonstração visual do sistema será disponibilizada nesta seção.
+>### 🎥 Demonstração em funcionamento
+
+![Demonstração do sistema FINDIT em funcionamento](Media/demonstracao-findit.gif)
 
 ---
 
