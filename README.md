@@ -250,6 +250,16 @@ Projeto desenvolvido pelo **Grupo FINDIT**:
 
 ---
 
+## 👨‍💻 Desenvolvimento e codificação
+
+O desenvolvimento da parte de software e a implementação do código do sistema FINDIT contaram com a participação de:
+
+- Filipe M. Silva
+- Victor Hoshika
+- Rubens Bartolomeu
+
+O trabalho envolveu o desenvolvimento e a integração do código necessário para o funcionamento do protótipo FINDIT, em conjunto com as demais etapas realizadas pela equipe do projeto.
+
 ## 📄 Documentação
 
 A documentação acadêmica completa e o manual de utilização estão disponíveis na pasta:
