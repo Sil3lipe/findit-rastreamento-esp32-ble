@@ -168,11 +168,13 @@ Docs/Manual Teclado FINDIT.pdf
 
 ## 🎥 Demonstração
 
-A pasta `Media` contém registros do protótipo físico e um vídeo demonstrando o funcionamento do sistema.
+O protótipo físico do FINDIT foi testado utilizando o Scanner ESP32, display OLED, teclado matricial e comunicação BLE com os Beacons.
 
-A imagem apresentada no início deste README corresponde ao protótipo desenvolvido durante o projeto.
+Clique na imagem abaixo para acessar o vídeo de demonstração do sistema em funcionamento:
 
----
+[![Demonstração do FINDIT](Media/projeto-findit.jpeg)](Media/demonstracao-findit.mp4)
+
+> 🎬 **Demonstração:** utilização da interface do FINDIT e rastreamento por proximidade através da intensidade do sinal BLE (RSSI).
 
 ## 📊 Resultados
 
