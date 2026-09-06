@@ -1,0 +1,22 @@
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Arduino / ESP32 - arquivos gerados durante compilação
+build/
+*.bin
+*.elf
+*.map
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Backups
+*.bak
+*~
